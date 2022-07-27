@@ -1,4 +1,4 @@
-Hi, my name is Fomichev Anton. I am a student at the HSE University, Moscow. I am studying interface software development.
+Hi, my name is Fomichev Anton. I am a student of the HSE University, Moscow. I am studying interface software development.
 
 My hobbies are: 
 + 🏀 Urban culture  
